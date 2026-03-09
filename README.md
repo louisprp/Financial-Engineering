@@ -61,6 +61,9 @@ Test window: 2025-02-10 to 2025-08-29
 
 Plot:
 
+<img width="1189" height="489" alt="graph" src="https://github.com/user-attachments/assets/bd7ee0cd-7ea1-4c94-9fff-50e88390a6be" />
+
+
 Output columns:
 
 * `date`, `vix`
